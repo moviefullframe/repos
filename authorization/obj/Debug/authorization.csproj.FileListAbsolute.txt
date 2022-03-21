@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.Form1.resources
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.Properties.Resources.resources
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\authorization\authorization\bin\Debug\authorization.exe.config
+C:\Users\Олег\source\repos\authorization\authorization\bin\Debug\authorization.exe
+C:\Users\Олег\source\repos\authorization\authorization\bin\Debug\authorization.pdb
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.exe
+C:\Users\Олег\source\repos\authorization\authorization\obj\Debug\authorization.pdb
